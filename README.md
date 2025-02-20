@@ -55,3 +55,51 @@ unwholesome people from getting their hands on it.
 
 Ironically, if you hate plutonium, the best way to get rid of it is to fission it - that really does change those pesky
 atomic nuclei. You get some electrical power into the bargain too. Quite a lot of it.
+
+## The Pipe-dream ##
+
+First things first - this is just a fanciful idea right now. What I'm interested in is finding out whether the goals
+above could be achieved from a physics standpoint. I'm not about to roll up my sleeves and build something in my
+backyard.
+
+So let's set out the store...
+
+- We have a reactor, because that's where plutonium gets fissioned (or just plain 'burnt' if we're being less formal
+  about terminology), and that's what gives us electrical power.
+- We have a fuel cycle, because we want to do something with the existing spent nuclear fuel from the current UK nuclear
+  power plant fleet, as well as new stuff that is being built (the EPR reactors) and I hope will be built (the SMR
+  reactors).
+- We also have a fuel cycle because we need to do something with the stuff going through our special reactor being
+  discussed here.
+- We have a geological disposal facility because ultimately we have to do something with the genuine nuclear waste
+  that comes out of the fuel cycle.
+
+Now, when I say *'genuine nuclear waste'*, I don't mean the spent nuclear fuel coming out of the existing reactor fleet,
+or our special reactor. I mean the fission products that result from the reactors doing their thing and producing
+electricity, as well as some troublemaker elements called the 'minor actinides' that are generated as a byproduct. Also
+included are irradiated bits of reactor and what is termed 'fuel cladding', namely the metal sheath that goes around the
+real nuclear fuel to hold it together inside the reactor and to stop it contaminating the surroundings when it comes out
+of the reactor. There are also various structural bits of metal used to tie the fuel rods together into what is called
+an 'assembly'.
+
+So spent nuclear fuel is in reality an entire assembly, containing the actual nuclear fuel, the cladding and the
+structural bits. An awful lot of that is potentially recyclable into a new generation of assemblies that can go back
+into a reactor. However, that isn't done these days in the UK - we just store the used assemblies above ground in secure
+buildings, or sometimes leave them hanging around in old reactors.
+
+The fission products contribute a few percent of the spent fuel's mass - typically around 3 to 5% of the mass of
+uranium used to make the fresh lot of fuel. Very little uranium actually gets fissioned in most reactors!
+
+The minor actinides come in at around less than 1% of that mass of uranium.
+
+There's roughly a percent or two or plutonium too.
+
+So more than 90% of the original uranium can be recycled.
+
+The cladding and structural bits contribute very roughly about a quarter of the mass of the entire fuel assembly.
+
+It depends on the kind of cladding used, but in many cases it too could be recycled - but that isn't happening anywhere
+right now. The structural bits aren't recyclable at all.
+
+The thing to bear in mind here is that by recycling the uranium and plutonium, as well as the cladding where possible,
+we can avoid putting quite so much stuff into a geological repository.
