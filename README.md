@@ -29,9 +29,9 @@ It's where I live. Just down the road from all that lovely plutonium, as it turn
 
 Uh-huh...
 
-I disagree, and I suspect if you don't like nuclear power, you probably also don't like fracking, wind turbines,
-solar panels, hydroelectric dams, pylons, EVs, trains, buses or anything else that isn't just the status quo of burning
-fossil fuels and burying your head in the sand.
+I disagree, and I suspect if you don't like nuclear power, you probably also don't like wind turbines, solar panels,
+hydroelectric dams, pylons, EVs, trains, buses or anything else that isn't just the status quo of burning fossil fuels
+and burying your head in the sand.
 
 The thing is, even if you secretly adore fossil fuels (let's be honest, most people do deep down, 'green' rhetoric
 notwithstanding), the world is going to run out of fossil fuels, and we're talking about within a century. **You**
