@@ -45,7 +45,7 @@ Waiting until the end of fossil fuels isn't a great time to start doing the rese
 energy supplies. Setting stuff up requires a working technological infrastructure, one that consumes a lot of power. You
 can't start a fusion reactor with a team of heavy horses. You can't extract rare earths with burning cow-pat.
 
-Still raving about banning nuclear? OK, let's have it your way - what do you intend to do about all that plutonium then?
+Still avid about banning nuclear? OK, let's have it your way - what do you intend to do about all that plutonium then?
 Just saying that it's banned won't make it disappear. *Naughty plutonium, begone! Get thee behind me, spent nuclear
 fuel!* Nope, there is a thing called chemistry that is based on the fact that atomic nuclei hang around, despite both
 biology and artificial means of recombining these nuclei in inventive ways to make new substances.
