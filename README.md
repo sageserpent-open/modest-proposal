@@ -4,7 +4,7 @@ A *slow* burning muse about nuclear power generation.
 
 ## Goals ##
 
-- Find a way that nuclear power generation can make a *sustainable* contribution to the UK's projected electricity
+- Ascertain whether nuclear power generation can make a *sustainable* contribution to the UK's projected electricity
   demand.
 - Minimise the demands on long term geological storage of nuclear waste products.
 - Make it impossible to subvert or hijack resources for weapon use.
@@ -19,7 +19,7 @@ A *slow* burning muse about nuclear power generation.
   power rely ultimately on the Sun's nuclear fusion process; the Sun will eventually go nova and fizzle out.
 - So, for at least 1000 years. Long enough for someone to build *a workable power plant* using deuterium-tritium fusion,
   followed by either deuterium-deuterium fusion or hydrogen-boron fusion for when the lithium runs out. These are not
-  easy things to do! The author doubts he will see this in his lifetime, but is open to being pleasantly surprised.
+  easy things to do. The author doubts he will see this in his lifetime, but is open to being pleasantly surprised.
 
 ## Why the UK? ##
 
@@ -34,7 +34,7 @@ hydroelectric dams, pylons, EVs, trains, buses or anything else that isn't just 
 and burying your head in the sand.
 
 The thing is, even if you secretly adore fossil fuels (let's be honest, most people do deep down, 'green' rhetoric
-notwithstanding), the world is going to run out of fossil fuels, and we're talking about within a century. **You**
+notwithstanding), the world is going to run out of fossil fuels; we're talking about within a century. **You**
 may not experience their demise, but your *children and grandchildren* will.
 
 So even if you insist on denying the effect of increasing carbon dioxide on the atmosphere, or think that carbon-capture
@@ -47,10 +47,12 @@ can't start a fusion reactor with a team of heavy horses. You can't extract rare
 
 Still avid about banning nuclear? OK, let's have it your way - what do you intend to do about all that plutonium then?
 Just saying that it's banned won't make it disappear. *Naughty plutonium, begone! Get thee behind me, spent nuclear
-fuel!* Nope, there is a thing called chemistry that is based on the fact that atomic nuclei hang around, despite both
-biology and artificial means of recombining these nuclei in inventive ways to make new substances.
+fuel!* This thing called chemistry is based on the fact that atomic nuclei hang around, despite both biological and
+artificial means of recombining these nuclei in inventive ways to make new substances. We can hide our plutonium nuclei
+in ceramic plutonium dioxide, or as an insoluble mineral plutonium trifluoride, or dissolve it as plutonium nitrate, or
+even make an alloy out of it with gallium, but it's still there.
 
-So it's just sitting around above ground, gathering dust - and requiring a lot of money to look after it and stop
+So it just sits around above ground, gathering dust - and requires a lot of money to look after it and stop
 unwholesome people from getting their hands on it.
 
 Ironically, if you hate plutonium, the best way to get rid of it is to fission it - that really does change those pesky
@@ -69,7 +71,7 @@ So let's set out the store...
 - We have a fuel cycle, because we want to do something with the existing spent nuclear fuel from the current UK nuclear
   power plant fleet, as well as new stuff that is being built (the EPR reactors) and I hope will be built (the SMR
   reactors).
-- We also have a fuel cycle because we need to do something with the stuff going through our special reactor being
+- We also have the fuel cycle because we need to do something with the stuff going through our special reactor being
   discussed here.
 - We have a geological disposal facility because ultimately we have to do something with the genuine nuclear waste
   that comes out of the fuel cycle.
@@ -77,10 +79,9 @@ So let's set out the store...
 Now, when I say *'genuine nuclear waste'*, I don't mean the spent nuclear fuel coming out of the existing reactor fleet,
 or our special reactor. I mean the fission products that result from the reactors doing their thing and producing
 electricity, as well as some troublemaker elements called the 'minor actinides' that are generated as a byproduct. Also
-included are irradiated bits of reactor and what is termed 'fuel cladding', namely the metal sheath that goes around the
-real nuclear fuel to hold it together inside the reactor and to stop it contaminating the surroundings when it comes out
-of the reactor. There are also various structural bits of metal used to tie the fuel rods together into what is called
-an 'assembly'.
+included is termed 'fuel cladding', namely the metal sheath that goes around the actual nuclear fuel to hold it together
+inside the reactor in the form of a fuel rod, keeping it isolated from the external environment. There are also various
+structural bits of metal used to tie the fuel rods together into what is called an 'assembly'.
 
 So spent nuclear fuel is in reality an entire assembly, containing the actual nuclear fuel, the cladding and the
 structural bits. An awful lot of that is potentially recyclable into a new generation of assemblies that can go back
@@ -92,7 +93,7 @@ uranium used to make the fresh lot of fuel. Very little uranium actually gets fi
 
 The minor actinides come in at around less than 1% of that mass of uranium.
 
-There's roughly a percent or two or plutonium too.
+There's roughly a percent or two of plutonium too.
 
 So more than 90% of the original uranium can be recycled.
 
@@ -102,4 +103,4 @@ It depends on the kind of cladding used, but in many cases it too could be recyc
 right now. The structural bits aren't recyclable at all.
 
 The thing to bear in mind here is that by recycling the uranium and plutonium, as well as the cladding where possible,
-we can avoid putting quite so much stuff into a geological repository.
+we can avoid putting so much stuff into a geological repository.
