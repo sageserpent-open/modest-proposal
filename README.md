@@ -81,7 +81,7 @@ So let's set out the store...
 Now, when I say *'genuine nuclear waste'*, I don't mean the spent nuclear fuel coming out of the existing reactor fleet,
 or our special reactor. I mean the fission products that result from the reactors doing their thing and producing
 electricity, as well as some troublemaker elements called the 'minor actinides' that are generated as a byproduct. Also
-included is termed 'fuel cladding', namely the metal sheath that goes around the actual nuclear fuel to hold it together
+included is 'fuel cladding', namely the metal sheath that goes around the actual nuclear fuel to hold it together
 inside the reactor in the form of a fuel rod, keeping it isolated from the external environment. There are also various
 structural bits of metal used to tie the fuel rods together into what is called an 'assembly'.
 
