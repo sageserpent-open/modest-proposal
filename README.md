@@ -76,6 +76,8 @@ So let's set out the store...
 - We have a geological disposal facility because ultimately we have to do something with the genuine nuclear waste
   that comes out of the fuel cycle.
 
+## Some background information ##
+
 Now, when I say *'genuine nuclear waste'*, I don't mean the spent nuclear fuel coming out of the existing reactor fleet,
 or our special reactor. I mean the fission products that result from the reactors doing their thing and producing
 electricity, as well as some troublemaker elements called the 'minor actinides' that are generated as a byproduct. Also
@@ -93,7 +95,7 @@ uranium used to make the fresh lot of fuel. Very little uranium actually gets fi
 
 The minor actinides come in at around less than 1% of that mass of uranium.
 
-There's roughly a percent or two of plutonium too.
+There's roughly a percent of plutonium too.
 
 So more than 90% of the original uranium can be recycled.
 
@@ -104,3 +106,77 @@ right now. The structural bits aren't recyclable at all.
 
 The thing to bear in mind here is that by recycling the uranium and plutonium, as well as the cladding where possible,
 we can avoid putting so much stuff into a geological repository.
+
+I mentioned above that 'Very little uranium actually gets fissioned'. This is down to two concerns, the first is that
+there is a technological limit as to how long a fuel rod can stay in use within a reactor. The cladding and structural
+materials suffer a very slow process of wearing out due to the irradiation and heat inside the reactor, and so does the
+fuel itself to a lesser extent. Rather than take it to the absolute limit, the utilities play it safe and limit the
+exposure (or 'burnup' in the jargon) of the fuel rods. So more uranium and plutonium could be burnt, but isn't to keep
+things safe.
+
+The second concern is that in order to get a nuclear reactor going, there needs to be a concentration of 'fissile'
+isotopes in the fuel. All uranium can be fissioned one way or another, but to keep the process going, there needs to be
+more than a minimal fraction of the fissile isotopes. These can be U-235, which occurs naturally in mined uranium, or
+Pu-239 or Pu-241, which are completely synthetic. There is also U-233 as well, and that is also completely synthetic.
+
+The uranium mined out of the Earth only contains a trifling 0.7% by mass of U-235; the rest is U-238, and you can't
+*start* a reactor with that, although you can burn it a little bit once the reactor gets going. So a lot of mined
+uranium is run through an 'enrichment plant' to yield a small amount of enriched uranium with around 3% to 5% U-235,
+plus a whopping pile of 'depleted uranium' that is almost entirely U-238. That small amount of enriched uranium becomes
+fresh nuclear fuel, and the whopping pile of depleted uranium, um ... sits around gathering dust.
+
+Now, depleted uranium is pretty harmless stuff, but it's currently the end of the line, essentially it's a glorified
+spoil heap.
+
+It is hard work getting the enrichment all the way from 0.7% up to a measly 5%, so most of the time enrichment stops
+there - and that's why burn-up is limited; once the U-235 concentration gets to around 1%, there just isn't enough of
+the vital ingredient to keep the reactor going. What's more, once the enrichment in U-235 goes above 20%, this is taken
+to be an indication that someone is trying to go for higher enrichment to build a nuclear weapon, and this is considered
+to be a Bad Thing.
+
+Recycling spent nuclear fuel (in the jargon, 'reprocessing') can help address these two concerns.
+
+The first is circumvented because the recycled fuel is reconstituted anew with fresh cladding - so it is ready for more
+punishment in the reactor.
+
+The second is circumvented because while the U-235 (and some of the U-238) is being fissioned, some more of the U-238 is
+transformed in the fuel rod into Pu-239 - and that is fissile. Because the U-238 gives rise to fissile Pu-239, it is
+termed 'fertile' and the process is called 'breeding'. This is a good thing, because some of that Pu-239 also
+fissions and that increases the burn-up time for a fuel rod, so we get power for a longer period for free.
+
+Now, in a perfect world, reprocessing would allow the remaining dregs of the U-235 to join forces with the Pu-239 bred
+in the reactor that hasn't yet been burnt, and that would result in enough fissile concentration to start up a reactor,
+so we could keep going for quite a few cycles before all the majority U-238 is either fissioned or converted into
+Pu-239.
+
+The catch is that breeding isn't very effective - so for every 100 U-235 nuclei that are fissioned, it turns out around
+only 60 to 80 new nuclei of Pu-239 are born from U-238, it depends on the reactor type. Some of these Pu-239 nuclei are
+in turn fissioned, so by the time a spent fuel rod comes out of a reactor, it's down to around 1% U-235 and around 1%
+Pu. That will only allow a single extra go around in the reactor, and a short one at that.
+
+## Enter the breeder reactor ##
+
+I'm not going into detail here, but it is possible (and it has been done) to build a reactor that can create as much
+Pu-239 as it is consumes in fissile nuclei. The idea is to burn Pu-239 as the fissile material in fuel rods, and do the
+breeding in a separate volume of U-238 called a 'breeding blanket', away from the 'core' where the power is generated.
+The core fuel rods are a mix of depleted uranium (so just U-238) and plutonium (a mix of Pu-239, Pu-240, Pu-241 and
+Pu-242 - don't ask why, it's complicated). The blanket is just depleted uranium.
+
+This requires a much higher level of fissile enrichment in the core, say around 20% (can be lower or higher, it
+depends). It also means that reprocessing has to be tweaked, so that the plutonium being bred in the blanket is
+transferred into the next cycle's core along with all the plutonium from the previous cycle's core). Essentially, each
+reprocessing sucks up the plutonium bred in the blanket and adds it to the stash of the next cycle's core, keeping the
+enrichment high enough to restart the reactor.
+
+This is fantastic news, because we don't have to mine every last bit of uranium to get at those precious U-235 nuclei
+via enrichment. Instead, we can take that pile of depleted uranium spoil from the enrichment people and put it into the
+breeding blanket, and keep our breeder reactor going for a long time.
+
+About 1000 years, give or take.
+
+Naturally, there's a new catch to this marvellous scheme - and that is in the detail 'reprocessing sucks up the
+plutonium bred in the blanket'. The implication is that plutonium has to be *separated* from the remaining U-238; that
+makes us uneasy, because that means we have something that is very enriched in Pu-239 and Pu-241, both of which are
+fissile, and that makes us think of nuclear weapons again.
+
+## The key idea ##
