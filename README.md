@@ -64,6 +64,8 @@ First things first - this is just a fanciful idea right now. What I'm interested
 above could be achieved from a physics standpoint. I'm not about to roll up my sleeves and build something in my
 backyard.
 
+Some people do fantasy football, I'm doing fantasy nuclear power.
+
 So let's set out the store...
 
 - We have a reactor, because that's where plutonium gets fissioned (or just plain 'burnt' if we're being less formal
