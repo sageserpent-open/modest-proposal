@@ -336,3 +336,5 @@ There are plenty of other questions to ask, such as:
 3. How does the reprocessing work for the new combinations of materials in the fuel rod?
 4. What can be done about recycling cladding from the existing reactor fleet?
 
+If you're reading this and it's piqued your interest, feel free to take a look yourself - it might make a good project
+for a PhD. If I get anywhere, it would be nice to compare results. :smile:
