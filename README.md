@@ -128,11 +128,11 @@ fresh nuclear fuel, and the whopping pile of depleted uranium, um ... sits aroun
 Now, depleted uranium is pretty harmless stuff, but it's currently the end of the line, essentially it's a glorified
 spoil heap.
 
-It is hard work getting the enrichment all the way from 0.7% up to a measly 5%, so most of the time enrichment stops
-there - and that's why burn-up is limited; once the U-235 concentration gets to around 1%, there just isn't enough of
-the vital ingredient to keep the reactor going. What's more, once the enrichment in U-235 goes above 20%, this is taken
-to be an indication that someone is trying to go for higher enrichment to build a nuclear weapon, and this is considered
-to be a Bad Thing.
+It is hard work getting the enrichment all the way from 0.7% up to even a measly 5%, so most of the time enrichment
+stops there - and that's why burn-up is limited; once the U-235 concentration gets to around 1%, there just isn't enough
+of the vital ingredient to keep the reactor going. What's more, once the enrichment in U-235 goes above 20%, this is
+taken to be an indication that someone is trying to go for higher enrichment - up to more than 90% - to build a nuclear
+weapon, and this is considered to be a **Bad Thing**.
 
 Recycling spent nuclear fuel (in the jargon, 'reprocessing') can help address these two concerns.
 
@@ -192,6 +192,7 @@ After these, the plutonium is considered to be junk and can't be reused in an or
 into a breeder reactor, so it's a limited, stop-gap form of recycling (it's down to those non-fissile isotopes of
 plutonium, Pu-240 and Pu-242 - again, don't ask, it's a long story).
 
-Other countries are also building and experimenting with their own new breeder reactors and Purex plants.
+Other countries are building and experimenting with their own new breeder reactors and Purex plants.
 
 ## The key idea ##
+
