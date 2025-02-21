@@ -263,7 +263,7 @@ That shuffle serves several purposes:
    nuclear reactions take place more frequently towards the centre, so as the fuel is burned out, it gets a boost from
    being moved inwards, and that keeps the heating profile in the reactor more evenly balanced, as well as burning the
    fuel down more efficiently.
-2. On each third shuffle, a fuel rod is removed from the reactor and sent for reprocessing in batches. The new fuel rods
+2. On the fourth shuffle, a fuel rod is removed from the reactor and sent for reprocessing in batches. The new fuel rods
    that arise from this reprocessing contain more core fuel, because each time reprocessing is done, it picks up U02
    from the previous cycle's blanket.
 3. There are three lots of reprocessing done during the full round of shuffling - in the final one, the UO2+PuO2 blend
