@@ -165,8 +165,8 @@ Pu-242 - don't ask why, it's complicated). The blanket is just depleted uranium.
 This requires a much higher level of fissile enrichment in the core, say around 20% (can be lower or higher, it
 depends). It also means that reprocessing has to be tweaked, so that the plutonium being bred in the blanket is
 transferred into the next cycle's core along with all the plutonium from the previous cycle's core). Essentially, each
-reprocessing sucks up the plutonium bred in the blanket and adds it to the stash of the next cycle's core, keeping the
-enrichment high enough to restart the reactor.
+lot of reprocessing sucks up the plutonium bred in the blanket and adds it to the stash of the next cycle's core,
+keeping the enrichment high enough to restart the reactor.
 
 This is fantastic news, because we don't have to mine every last bit of uranium to get at those precious U-235 nuclei
 via enrichment. Instead, we can take that pile of depleted uranium spoil from the enrichment people and put it into the
@@ -174,9 +174,24 @@ breeding blanket, and keep our breeder reactor going for a long time.
 
 About 1000 years, give or take.
 
+## Purex ##
+
 Naturally, there's a new catch to this marvellous scheme - and that is in the detail 'reprocessing sucks up the
-plutonium bred in the blanket'. The implication is that plutonium has to be *separated* from the remaining U-238; that
-makes us uneasy, because that means we have something that is very enriched in Pu-239 and Pu-241, both of which are
-fissile, and that makes us think of nuclear weapons again.
+plutonium bred in the blanket'. The implication is that plutonium has to be *separated* from the remaining U-238 via a
+chemical process called 'Purex'; that makes some folk uneasy, because that means we have something that is very enriched
+in Pu-239 and Pu-241, both of which are fissile, and that makes us think of nuclear weapons again.
+
+A bit more on Purex - this was done in the US and the UK, but abandoned in the US in the 1970s because of those uneasy
+feelings, and abandoned in the UK because natural gas was hitting its stride in the 1980s, which led to the government
+pulling the plug on breeder reactor development, eventually leading to the final termination of the last Purex
+reprocessing plant in the UK in 2022. We're past peak natural gas production in the North Sea fields, so that decision
+doesn't seem quite such a good idea these days.
+
+France continues to use Purex, but they put their plutonium back into ordinary reactors for one or two more cycles.
+After these, the plutonium is considered to be junk and can't be reused in an ordinary reactor - although it *could* go
+into a breeder reactor, so it's a limited, stop-gap form of recycling (it's down to those non-fissile isotopes of
+plutonium, Pu-240 and Pu-242 - again, don't ask, it's a long story).
+
+Other countries are also building and experimenting with their own new breeder reactors and Purex plants.
 
 ## The key idea ##
