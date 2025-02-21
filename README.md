@@ -209,7 +209,7 @@ diluted all the way down to around 7% to make new fuel for an ordinary reactor, 
 
 OK - breeder reactors are cool, but we worry about Purex and nuclear weapons.
 
-What if there were *two* fertile isotopes that we bred fissile isotopes from? Could we run this through a tweaked Purex
+What if there were *two* fertile isotopes that we bred fissile isotopes from? Could we run this through a tweaked
 reprocessing and only separate the fissile isotopes from just one of the fertile isotopes? If we did, we'd have a
 concentrate of fissile isotopes, but still too dilute to use in a weapon because of the remaining fertile isotope.
 
