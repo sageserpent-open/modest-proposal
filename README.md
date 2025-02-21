@@ -159,8 +159,9 @@ Pu. That will only allow a single extra go around in the reactor, and a short on
 I'm not going into detail here, but it is possible (and it has been done) to build a reactor that can create as much
 Pu-239 as it is consumes in fissile nuclei. The idea is to burn Pu-239 as the fissile material in fuel rods, and do the
 breeding in a separate volume of U-238 called a 'breeding blanket', away from the 'core' where the power is generated.
-The core fuel rods are a mix of depleted uranium (so just U-238) and plutonium (a mix of Pu-239, Pu-240, Pu-241 and
-Pu-242 - don't ask why, it's complicated). The blanket is just depleted uranium.
+The core fuel rods are a mix of depleted uranium (so just U-238) and plutonium (actually a mix of Pu-239, Pu-240, Pu-241
+and Pu-242 - this is because breeding always overshoots a little, some of the Pu-239 itself gets converted over time to
+Pu-240 and so on). The blanket is just depleted uranium.
 
 This requires a much higher level of fissile enrichment in the core, say around 20% (can be lower or higher, it
 depends). It also means that reprocessing has to be tweaked, so that the plutonium being bred in the blanket is
@@ -181,18 +182,155 @@ plutonium bred in the blanket'. The implication is that plutonium has to be *sep
 chemical process called 'Purex'; that makes some folk uneasy, because that means we have something that is very enriched
 in Pu-239 and Pu-241, both of which are fissile, and that makes us think of nuclear weapons again.
 
+Incidentally, the fission products and minor actinides are also separated out from both the uranium and the plutonium,
+which is good as they are part of the genuine waste.
+
 A bit more on Purex - this was done in the US and the UK, but abandoned in the US in the 1970s because of those uneasy
 feelings, and abandoned in the UK because natural gas was hitting its stride in the 1980s, which led to the government
 pulling the plug on breeder reactor development, eventually leading to the final termination of the last Purex
 reprocessing plant in the UK in 2022. We're past peak natural gas production in the North Sea fields, so that decision
 doesn't seem quite such a good idea these days.
 
-France continues to use Purex, but they put their plutonium back into ordinary reactors for one or two more cycles.
-After these, the plutonium is considered to be junk and can't be reused in an ordinary reactor - although it *could* go
-into a breeder reactor, so it's a limited, stop-gap form of recycling (it's down to those non-fissile isotopes of
-plutonium, Pu-240 and Pu-242 - again, don't ask, it's a long story).
+France continues to use Purex, but they start with spent fuel from ordinary reactors and put their plutonium back into
+them for one or two more cycles. After these, the plutonium is considered to be junk and can't be reused in an ordinary
+reactor - although it *could* go into a breeder reactor, so it's a limited, stop-gap form of recycling (it's down to
+those non-fissile isotopes of plutonium, Pu-240 and Pu-242 - they build up through the cycles and spoil things).
 
 Other countries are building and experimenting with their own new breeder reactors and Purex plants.
 
+To summarise, Purex takes plutonium and separates it out from uranium. Because the uranium is practically all U-238,
+that means that we're concentrating the fissile isotopes Pu-239 and Pu-241, and thus we can build a new batch of nuclear
+fuel from that concentrate. That can be diluted down to 20% or so to make new fuel for a breeder reactor core, or can be
+diluted all the way down to around 7% to make new fuel for an ordinary reactor, which is the French way of doing things.
+
 ## The key idea ##
+
+OK - breeder reactors are cool, but we worry about Purex and nuclear weapons.
+
+What if there were *two* fertile isotopes that we bred fissile isotopes from? Could we run this through a tweaked Purex
+reprocessing and only separate the fissile isotopes from just one of the fertile isotopes? If we did, we'd have a
+concentrate of fissile isotopes, but still too dilute to use in a weapon because of the remaining fertile isotope.
+
+So, we have U-238 as one fertile isotope, and let's introduce the isotope of thorium, Th-232 as the other. Mined thorium
+is to all intents and purposes just this isotope, and it breeds U-233, which like Pu-239 and Pu-241 is a synthetic
+fissile isotope.
+
+So if we have a mixture of U-238 and Th-232, we'll end up with a mix of Pu-239 and U-233 as fissile isotopes; by
+separating both uranium and plutonium together away from thorium, we can achieve a partial concentration of the fissile
+isotopes, but keeping lots of U-238 in the concentrate to make it useless in weapons.
+
+(Actually, due to breeding overshooting, we'll get Pu-239, Pu-240, Pu-241, Pu-242, U-233, U-234 and U-235, so there are
+actually four fissile isotopes in play here, the ones with odd-numbers. Nonetheless, it is Pu-239 and U-233 that play
+the lead roles.)
+
+## Putting it together ##
+
+Let's start with the spent nuclear fuel from the UK's existing fleet. This is actually a mixture of oxides, mostly
+uranium dioxide (UO2) with some plutonium dioxide (PuO2), various fission product oxides, the minor actinides in oxide
+form and some fission product elements that stay in metallic form.
+
+This spent fuel can be subject to 'voloxidation', which is a very rough-and-ready form of reprocessing that breaks up
+the spent fuel (which is a brittle fused ceramic) into a fine powder. Unlike Purex, very little gets separated out here,
+just a couple of fission products. The crucial point is that the spent fuel is rendered ready for refabrication by
+powdering it. This is done by blending it very finely with thorium dioxide (ThO2), pressing the blend into compacts and
+firing them to make new ceramic pellets for the breeding blanket. So that's the spent fuel from the existing reactor
+fleet dealt with - it goes into our special reactor's breeding blanket.
+
+The core fuel is what we get when we reprocess a combination of our special reactor's core fuel and breeding blanket
+from the previous cycle - we separate the uranium + plutonium as a mixed concentrate with all the fissile isotopes in
+it, leaving the thorium behind, and also separating out the fission products and minor actinides, just as Purex does.
+
+This gives us a blend of UO2 and PuO2, for the core fuel, and leaves Th02 for recycling into the next cycle's breeding
+blanket.
+
+In terms of physical and chemical properties, the core fuel is the same as the core fuels already tried out in past and
+current breeder reactors that use the Purex approach for reprocessing. The only difference is that the fissile
+enrichment is now split between Pu-239 and Pu-241 on the one hand and U-233 and U-235 on the other.
+
+There is a flow to how material moves through the cycles:
+
+- We have incoming spent nuclear fuel from the existing reactor fleet that goes to making the breeding blanket by
+  voloxidation and combination with ThO2.
+- Spent nuclear fuel from the special reactor goes into reprocessing to separate out fission products, ThO2 for
+  recycling back into the breeding blanket and a UO2+PuO2 blend that makes fresh core fuel.
+- There is a shuffle of material going on from one cycle to the next both in the reactor and through reprocessing.
+
+That shuffle serves several purposes:
+
+1. It is necessary to move fuel rods from outer areas of the reactor towards the center as the fuel is burned up -
+   nuclear reactions take place more frequently towards the centre, so as the fuel is burned out, it gets a boost from
+   being moved inwards, and that keeps the heating profile in the reactor more evenly balanced, as well as burning the
+   fuel down more efficiently.
+2. On each third shuffle, a fuel rod is removed from the reactor and sent for reprocessing in batches. The new fuel rods
+   that arise from this reprocessing contain more core fuel, because each time reprocessing is done, it picks up U02
+   from the previous cycle's blanket.
+3. There are three lots of reprocessing done during the full round of shuffling - in the final one, the UO2+PuO2 blend
+   is *not* used to make new core fuel, rather it becomes replacement fuel for the existing reactor fleet.
+
+Looking at this more closely, we start the shuffle with a rod that is made only of breeding blanket pellets - these are
+60% Th02 and 40% voloxidized spent nuclear fuel from the fleet, so around a 3:2 ratio of Th02 versus UO2.
+
+This goes into the special reactor on the outermost perimeter (looking down from the top), serving as what is called
+the 'radial breeding blanket' in the jargon. It's not really a fuel rod at all, because all the pellets are breeding
+blanket ones - although there is a little plutonium in it already, because it is spent fuel.
+
+The rod accumulates some more fissile isotopes, and is shuffled further in...
+
+... and again ...
+
+... and again, but it is shuffled out of the reactor for reprocessing.
+
+Reprocessing results in that 40% of the original rod forming core fuel in the fresh fuel rod (now it's got some
+concentrated fissile isotopes, so it's the real thing), the remaining 60% is filled with blanket pellets on the bottom
+and top, serving as what is called the 'axial breeding blanket' in the jargon. Back in it goes, this time further into
+towards the centre of the reactor...
+
+The rod burns some fissile isotopes in the core part, and accumulates some in the axial breeding blanket parts, and is
+shuffled further in...
+
+... and again ...
+
+... and again, but it is shuffled out of the reactor for reprocessing.
+
+Now reprocessing adds another 24% of core fuel to make a new fuel rod with 64% core pellets and 36% axial breeder
+blanket pellets. Back in it goes for the final bout of shuffling to the centre.
+
+After three cycles of irradiation, there is a final reprocessing that results in UO2 + PuO2 fuel pellets that can be
+used by the reactor fleet.
+
+Because we start with breeding blanket pellets in a 3:2 proportion of thorium to uranium and recycle the thorium, this
+has the effect of enriching the fissile isotopes by a factor of 2.5 during the initial reprocessing. The next
+reprocessing doesn't enrich so much, because the previous core fuel has burnt out somewhat, and there are fewer breeding
+blanket pellets to abstract fissile material from. So we'd expect the fissile enrichment to go up initially on the first
+reprocessing, flatten off on the next and then drop down on the final reprocessing.
+
+## Starting it all up ##
+
+This description is all very well, but to start with we won't have fuel pellets because we haven't done any reprocessing
+yet, because we haven't got any spent fuel pellets, because...
+
+To get out of this chicken-and-egg situation, we take the existing stockpile of UK plutonium, in the form of PuO2, and
+blend it with depleted UO2 to make stand-in core pellets, using the same process as for making blanket pellets in a
+special run. So it is Pu-239 and Pu-241 that take on all the responsibility for fissile enrichment. In an ideal world,
+this would be frowned upon because we don't want to have separated plutonium in the first place, but remember, this
+stuff already exists; we're trying to do something about it.
+
+## Mission Statement ##
+
+So the questions arise:
+
+1. What do the numbers look like in reality - how much electrical power does the reactor yield?
+2. Can be get enough enrichment to make the reactor go?
+3. What would be the final enrichment of the fuel intended for the external reactor fleet?
+4. How much material could be processed in this way?
+5. How much of the existing plutonium to we need to bootstrap the cycle? Is there enough at all, or for just one special
+   reactor, or could we do this more than once?
+6. How long between shuffles?
+
+There are plenty of other questions to ask, such as:
+
+1. What is the reactor design?
+2. What cladding is used for the fuel?
+3. How does the reprocessing work for the new combinations of materials in the fuel rod?
+4. What can be done about recycling cladding from the existing reactor fleet?
 
