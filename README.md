@@ -297,8 +297,8 @@ shuffled further in...
 Now reprocessing adds another 24% of core fuel to make a new fuel rod with 64% core pellets and 36% axial breeder
 blanket pellets. Back in it goes for the final bout of shuffling to the centre.
 
-After three cycles of irradiation, there is a final reprocessing that results in UO2 + PuO2 fuel pellets that can be
-used by the reactor fleet.
+After three passes of shuffling through the reactor, there is a final reprocessing that results in UO2 + PuO2 fuel
+pellets that can be used by the reactor fleet.
 
 Because we start with breeding blanket pellets in a 3:2 proportion of thorium to uranium and recycle the thorium, this
 has the effect of enriching the fissile isotopes by a factor of 2.5 during the initial reprocessing. The next
