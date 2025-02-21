@@ -322,7 +322,7 @@ stuff already exists; we're trying to do something about it.
 So the questions arise:
 
 1. What do the numbers look like in reality - how much electrical power does the reactor yield?
-2. Can be get enough enrichment to make the reactor go?
+2. Is there enough enrichment to make the reactor go?
 3. What would be the final enrichment of the fuel intended for the external reactor fleet?
 4. How much material could be processed in this way?
 5. How much of the existing plutonium to we need to bootstrap the cycle? Is there enough at all, or for just one special
