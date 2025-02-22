@@ -229,7 +229,7 @@ the lead roles.)
 
 Let's start with the spent nuclear fuel from the UK's existing fleet. This is actually a mixture of oxides, mostly
 uranium dioxide (UO2) with some plutonium dioxide (PuO2), various fission product oxides, the minor actinides in oxide
-form and some fission product elements that stay in metallic form.
+form and some fission product elements that stay in elemental form, either as metals or gases.
 
 This spent fuel can be subject to 'voloxidation', which is a very rough-and-ready form of reprocessing that breaks up
 the spent fuel (which is a brittle fused ceramic) into a fine powder. Unlike Purex, very little gets separated out here,
@@ -263,7 +263,7 @@ That shuffle serves several purposes:
    nuclear reactions take place more frequently towards the centre, so as the fuel is burned out, it gets a boost from
    being moved inwards, and that keeps the heating profile in the reactor more evenly balanced, as well as burning the
    fuel down more efficiently.
-2. On the fourth shuffle, a fuel rod is removed from the reactor and sent for reprocessing in batches. The new fuel rods
+2. On the third shuffle, a fuel rod is removed from the reactor and sent for reprocessing in batches. The new fuel rods
    that arise from this reprocessing contain more core fuel, because each time reprocessing is done, it picks up U02
    from the previous cycle's blanket.
 3. There are three lots of reprocessing done during the full round of shuffling - in the final one, the UO2+PuO2 blend
@@ -278,27 +278,24 @@ blanket ones - although there is a little plutonium in it already, because it is
 
 The rod accumulates some more fissile isotopes, and is shuffled further in...
 
-... and again ...
-
-... and again, but it is shuffled out of the reactor for reprocessing.
+... and again, afterwards it is shuffled out of the reactor for reprocessing.
 
 Reprocessing results in that 40% of the original rod forming core fuel in the fresh fuel rod (now it's got some
 concentrated fissile isotopes, so it's the real thing), the remaining 60% is filled with blanket pellets on the bottom
-and top, serving as what is called the 'axial breeding blanket' in the jargon. Back in it goes, this time further into
+and top, serving as what is called the 'axial breeding blanket' in the jargon. Back in it goes, this time further in
 towards the centre of the reactor...
 
 The rod burns some fissile isotopes in the core part, and accumulates some in the axial breeding blanket parts, and is
 shuffled further in...
 
-... and again ...
-
-... and again, but it is shuffled out of the reactor for reprocessing.
+... and again, afterwards it is shuffled out of the reactor for reprocessing.
 
 Now reprocessing adds another 24% of core fuel to make a new fuel rod with 64% core pellets and 36% axial breeder
-blanket pellets. Back in it goes for the final bout of shuffling to the centre.
+blanket pellets. Back in it goes for the final bout of shuffling towards the centre, but this time in an intermediate
+zone outside the central part and inside the radial breeding blanket.
 
-After three passes of shuffling through the reactor, there is a final reprocessing that results in UO2 + PuO2 fuel
-pellets that can be used by the reactor fleet.
+After two passes of shuffling through and out of the reactor, there is a final reprocessing that results in UO2 + PuO2
+fuel pellets that can be used by the reactor fleet.
 
 Because we start with breeding blanket pellets in a 3:2 proportion of thorium to uranium and recycle the thorium, this
 has the effect of enriching the fissile isotopes by a factor of 2.5 during the initial reprocessing. The next
