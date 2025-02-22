@@ -264,8 +264,8 @@ That shuffle serves several purposes:
    being moved inwards, and that keeps the heating profile in the reactor more evenly balanced, as well as burning the
    fuel down more efficiently.
 2. On the third shuffle, a fuel rod is removed from the reactor and sent for reprocessing in batches. The new fuel rods
-   that arise from this reprocessing contain more core fuel, because each time reprocessing is done, it picks up U02
-   from the previous cycle's blanket.
+   that arise from this reprocessing contain more core fuel, because each time reprocessing is done, it picks up U02 and
+   PuO2 from the previous cycle's blanket.
 3. There are three lots of reprocessing done during the full round of shuffling - in the final one, the UO2+PuO2 blend
    is *not* used to make new core fuel, rather it becomes replacement fuel for the existing reactor fleet.
 
@@ -286,7 +286,7 @@ and top, serving as what is called the 'axial breeding blanket' in the jargon. B
 towards the centre of the reactor...
 
 The rod burns some fissile isotopes in the core part, and accumulates some in the axial breeding blanket parts, and is
-shuffled further in...
+shuffled right into the centre...
 
 ... and again, afterwards it is shuffled out of the reactor for reprocessing.
 
@@ -300,8 +300,10 @@ fuel pellets that can be used by the reactor fleet.
 Because we start with breeding blanket pellets in a 3:2 proportion of thorium to uranium and recycle the thorium, this
 has the effect of enriching the fissile isotopes by a factor of 2.5 during the initial reprocessing. The next
 reprocessing doesn't enrich so much, because the previous core fuel has burnt out somewhat, and there are fewer breeding
-blanket pellets to abstract fissile material from. So we'd expect the fissile enrichment to go up initially on the first
-reprocessing, flatten off on the next and then drop down on the final reprocessing.
+blanket pellets to abstract fissile material from. The final reprocessing has even fewer breeding blanket pellets to
+work with, so it can't really top up the enrichment at all - the majority of the fuel rod is made of core pellets that
+have burnt up. So we'd expect the fissile enrichment to go up initially on the first reprocessing, flatten off on the
+next and then drop down on the final reprocessing.
 
 ## Starting it all up ##
 
@@ -313,6 +315,10 @@ blend it with depleted UO2 to make stand-in core pellets, using the same process
 special run. So it is Pu-239 and Pu-241 that take on all the responsibility for fissile enrichment. In an ideal world,
 this would be frowned upon because we don't want to have separated plutonium in the first place, but remember, this
 stuff already exists; we're trying to do something about it.
+
+This mixing of PuO2 is also done on the first batches of reprocessed UO2+PuO2 that are recycled as core fuel pellets,
+because those from the first few shuffles out of the reactor will lack sufficient fissile isotopes bred in the blanket
+pellets; the distribution of fissile isotopes across the shuffles has to settle down into an equilibrium.
 
 ## Mission Statement ##
 
