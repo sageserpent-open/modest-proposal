@@ -341,3 +341,15 @@ There are plenty of other questions to ask, such as:
 
 If you're reading this and it's piqued your interest, feel free to take a look yourself - it might make a good project
 for a PhD. If I get anywhere, it would be nice to compare results. :smile:
+
+## General mumbling to myself (aka the FAQ) ##
+
+1. Q: Why the 3:2 ratio of ThO2 to spent nuclear fuel in the breeder blankets? A: Thorium dioxide in ceramic form is
+   extremely resistant to dissolution in nitric acid, and that step is the prelude to reprocessing via solvent
+   extraction, which is what Purex and any variants use. The use of this ratio allows dissolution in nitric acid - as
+   long as the pellet is baked long enough for the ThO2 and UO2 to go into 'solid solution' (where the ceramic grains
+   contain a mix of thorium and uranium atoms in the same structure), then the acid can chip away at the grains, using
+   the uranium atoms as the weak links. This also means that there is no way to say, chop off a breeder blanket part
+   of a fuel rod and then dissolve it separately in a bid to separate pure U-233, which would be a prelude to making a
+   weapon. The only way to get dissolution is to mix in ordinary U-238 from the spent fuel; reprocessing treats U-238
+   and U-233 the same way, so the fissile U-233, while concentrated, isn't concentrated enough to be usable in a weapon.
