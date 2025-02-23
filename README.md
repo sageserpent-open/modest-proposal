@@ -19,7 +19,7 @@ A *slow* burning muse about nuclear power generation.
   power rely ultimately on the Sun's nuclear fusion process; the Sun will eventually go nova and fizzle out.
 - So, for at least 1000 years. Long enough for someone to build *a workable power plant* using deuterium-tritium fusion,
   followed by either deuterium-deuterium fusion or hydrogen-boron fusion for when the lithium runs out. These are not
-  easy things to do. The author doubts he will see this in his lifetime, but is open to being pleasantly surprised.
+  easy things to do. I doubt that I will see this in my lifetime, but am open to being pleasantly surprised.
 
 ## Why the UK? ##
 
