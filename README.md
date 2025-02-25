@@ -168,7 +168,7 @@ Pu-240 and so on). The blanket is just depleted uranium.
 This requires a much higher level of fissile enrichment in the core, say around 20% (can be lower or higher, it
 depends). It also means that reprocessing has to be tweaked, so that the plutonium being bred in the blanket is
 transferred into the next cycle's core along with all the plutonium from the previous cycle's core). Essentially, each
-lot of reprocessing sucks up the plutonium bred in the blanket and adds it to the stash of the next cycle's core,
+round of reprocessing sucks up the plutonium bred in the blanket and adds it to the stash of the next cycle's core,
 keeping the enrichment high enough to restart the reactor.
 
 This is fantastic news, because we don't have to mine every last bit of uranium to get at those precious U-235 nuclei
@@ -344,7 +344,7 @@ for a PhD. If I get anywhere, it would be nice to compare results. :smile:
 
 ## General mumbling to myself (aka the FAQ) ##
 
-1. Q: Why the 3:2 ratio of ThO2 to spent nuclear fuel in the breeder blankets? A: Thorium dioxide in ceramic form is
+1. *Q*: Why the 3:2 ratio of ThO2 to spent nuclear fuel in the breeder blankets? *A*: Thorium dioxide in ceramic form is
    extremely resistant to dissolution in nitric acid, and that step is the prelude to reprocessing via solvent
    extraction, which is what Purex and any variants use. The use of this ratio allows dissolution in nitric acid - as
    long as the pellet is baked long enough for the ThO2 and UO2 to go into 'solid solution' (where the ceramic grains
@@ -353,3 +353,31 @@ for a PhD. If I get anywhere, it would be nice to compare results. :smile:
    of a fuel rod and then dissolve it separately in a bid to separate pure U-233, which would be a prelude to making a
    weapon. The only way to get dissolution is to mix in ordinary U-238 from the spent fuel; reprocessing treats U-238
    and U-233 the same way, so the fissile U-233, while concentrated, isn't concentrated enough to be usable in a weapon.
+
+2. *Q*: Why the uncertainty? *A*: A 'conventional' breeder reactor (to be quite specific, a 'fast breeder reactor')
+   works with a core that accumulates the plutonium bred in the radial and axial blanket regions; the entire core and
+   blanket is reprocessed, and the separated plutonium is blended with a portion of the depleted uranium to make a fresh
+   core. Meanwhile, the blanket regions are reconstituted from just depleted uranium, with some topping up from the
+   external supply of depleted uranium (remember the 'glorified spoil heap' from before). So the flow of both uranium is
+   inward to the reactor's operation, and plutonium stays with the reactor for its life, unless there is an excess of
+   bred plutonium.
+
+   Things are different with our special reactor, because while it is a fast breeder reactor, both uranium
+   and a little plutonium from spent nuclear fuel move into reactor operations and then the accumulated uranium and
+   remaining bred plutonium move back out after the third round of reprocessing. All the fissile isotopes in the
+   reactor, be they in the core, axial blanket or radial blanket are in a cycle of shuffling and will exit the reactor
+   to go back to the external fleet.
+
+   This means that breeding has to be more effective to compensate for the eventual loss of the fissile isotopes in the
+   shuffle cycle. This approach is also taken with 'breed-and-burn' concepts where depleted uranium is shuffled into a
+   reactor so that it initially breeds plutonium, then burns that plutonium down prior to final discharge from the
+   reactor. That approach only does shuffling, so the fuel rods have to stay in the reactor for a very long time to
+   build up enough fissile isotopes of plutonium - and that places a heavy demand on the cladding integrity. The nature
+   of the fuel also has to be optimised for breeding - it turns out that UO2 might not cut it in this approach, it can't
+   breed that effectively.
+
+   The approach here is a hybrid between the conventional and the breed-and-burn approach. By doing reprocessing and
+   refabrication, the demands on the cladding and fuel should be easier to meet as any individual fuel rod doesn't have
+   to undergo the entire shuffle cycle. By only separating out one fertile isotope, Th-232, we gain same enrichment over
+   and above that from breeding alone in the first and second round of reprocessing, which hopefully gives UO2 a chance
+   to compete. But there are qualitative notions - hence this project.
