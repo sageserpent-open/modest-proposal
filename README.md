@@ -358,7 +358,7 @@ for a PhD. If I get anywhere, it would be nice to compare results. :smile:
    works with a core that accumulates the plutonium bred in the radial and axial blanket regions; the entire core and
    blanket is reprocessed, and the separated plutonium is blended with a portion of the depleted uranium to make a fresh
    core. Meanwhile, the blanket regions are reconstituted from just depleted uranium, with some topping up from the
-   external supply of depleted uranium (remember the 'glorified spoil heap' from before). So the flow of both uranium is
+   external supply of depleted uranium (remember the 'glorified spoil heap' from before). So the overall flow of uranium is
    inward to the reactor's operation, and plutonium stays with the reactor for its life, unless there is an excess of
    bred plutonium.
 
@@ -380,4 +380,4 @@ for a PhD. If I get anywhere, it would be nice to compare results. :smile:
    refabrication, the demands on the cladding and fuel should be easier to meet as any individual fuel rod doesn't have
    to undergo the entire shuffle cycle. By only separating out one fertile isotope, Th-232, we gain same enrichment over
    and above that from breeding alone in the first and second round of reprocessing, which hopefully gives UO2 a chance
-   to compete. But there are qualitative notions - hence this project.
+   to compete. But these are qualitative notions - hence this project.
